@@ -8,4 +8,4 @@ desarrolladas a lo largo del programa MisionTIC 2022.
 Las soluciones se encontrarán divididas en carpetas según las clases
 donde éstas fueron asignadas, así, por ejemplo, se vería; 
 
-**'/clase02/ejercicio06', '/clase10/ejercicio02', '/clase05/ejercicio03'**
+**'/clase02/ejercicio06.py', '/clase10/ejercicio02.py', '/clase05/ejercicio03.py'**
